@@ -1,0 +1,51 @@
+
+.os-animation{
+	opacity: 0;
+	margin: 0!important;
+	max-width: 100%;
+}
+.os-animation.animated {
+	opacity: 1;
+}
+.iconos{
+	margin-bottom: 15px;
+}
+#linicio {
+    font-size: 52px;
+    padding-top: 90px;
+}
+
+.imp{
+	padding:  1rem;
+}
+.pic{
+	margin-top: 4rem;
+    margin-bottom: 6rem;
+}
+#flex{
+	margin-top: 2rem;
+}
+#mac{
+	margin-top: 2rem;
+}
+
+
+/*
+@font-face {
+	font-family: "Montserrat";
+	src: url("/Fonts/Montserrat-Medium.otf");
+
+  }
+@font-face {
+	font-family: "Montserrat-heading";
+	src: url("/Fonts/Montserrat-Black.otf");
+	
+  }
+
+*{
+	font-family: "Mystery Quest";
+}
+.heading{
+	font-family: "Montserrat-heading";
+}
+*/
